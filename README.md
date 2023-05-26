@@ -14,7 +14,7 @@
 
 ## Introduction
 
-This repo demonstrates how to build a Fintech app on AWS that uses [Plaid Link](https://plaid.com/plaid-link/) to connect a user to their bank account. The app allows users to sign up using [Amazon Cognito](https://aws.amazon.com/cognito/), select their bank from a list, log in to the bank, and display the accounts. The app is built using [AWS Amplify](https://aws.amazon.com/amplify/), [Amazon API Gateway](https://aws.amazon.com/api-gateway/), Amazon Cognito, [AWS Secrets
+This repo  demonstrates how to build a Fintech app on AWS that uses [Plaid Link](https://plaid.com/plaid-link/) to connect a user to their bank account. The app allows users to sign up using [Amazon Cognito](https://aws.amazon.com/cognito/), select their bank from a list, log in to the bank, and display the accounts. The app is built using [AWS Amplify](https://aws.amazon.com/amplify/), [Amazon API Gateway](https://aws.amazon.com/api-gateway/), Amazon Cognito, [AWS Secrets
 Manager](https://aws.amazon.com/secrets-manager/), [Amazon Simple Queue Service](https://aws.amazon.com/sqs/) and [Amazon DynamoDB](https://aws.amazon.com/dynamodb/).
 
 ## Architecture
