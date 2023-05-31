@@ -37,7 +37,6 @@ Parameters:
   GitHubAccessToken:
     Type: String
     Description: GitHub Personal Access Token
-    Default: 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
   GoolgeProviderClientID:
     Type: String
     Description: GoogleProviderClientID
