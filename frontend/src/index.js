@@ -5,7 +5,7 @@ import { Amplify, Auth, API } from "aws-amplify";
 import App from './App';
 
 import '@aws-amplify/ui-react/styles.css';
-import '@fontsource/inter/variable.css';
+import '@fontsource-variable/inter';
 import "./index.css";
 
 
